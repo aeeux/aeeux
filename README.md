@@ -86,7 +86,7 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src=src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical"/></td>
   </tr>
