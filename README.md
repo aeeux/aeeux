@@ -77,12 +77,8 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
   </a>
 </p>
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical"/></td>  </tr>
-      <td valign="top"><img height="200" width="auto" style="display: flex" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&theme=radical" alt="aeeux" /></td>
+<p>&nbsp;<img align="center" width="375px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="aeeux" /></p>
 
-</table>
+<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical" alt="aeeux" /></p>
+
+<p><img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aeeux" /></p>
