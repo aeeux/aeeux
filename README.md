@@ -86,4 +86,4 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
   </tr>
 </table>
 
-<p><img align="center" width="380px" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" alt="aeeux" /></p>
+<p><img align="center" width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="aeeux" /></p>
