@@ -82,7 +82,7 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=aeeux&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117"/></td>
     <!-- Github Top Languages -->
-      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical"/></td>
+      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/></td>
   </tr>
 </table>
 
