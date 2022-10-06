@@ -79,9 +79,6 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://aeeux-readme-stats.vercel.app/api?username=aeeux&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
-    <!-- Github Top Languages -->
-      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/></td>
-      <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aeeux&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td>
   </tr>
