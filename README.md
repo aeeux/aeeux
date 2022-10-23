@@ -27,7 +27,7 @@ Thanks for stopping by I hope you'll enjoy my projects! 👨‍💻
 - 🌱 I’m currently learning **React & React Native, Web3, blockchain & IPFS**
 - 🔭 I’m currently building a **3D Software tool**
 
-- 👨‍💻 All of my projects are available at [https://aeeux.tech/](https://aeeux.tech/)  **New Website coming soon**
+- 👨‍💻 Some of my projects are available at [https://aeeux.tech/](https://aeeux.tech/)  **New Website coming soon**
 
 <table cellpadding="0">
   <tr style="padding: 0">
